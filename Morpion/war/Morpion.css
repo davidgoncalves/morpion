@@ -1,0 +1,13 @@
+body{
+	padding-top: 60px !important;
+}
+
+.list_join, .list_spectat{
+	width: 100px;
+	text-align: center !important;
+}
+
+.list_players, .list_status{
+	width: 60px;
+	text-align: center !important;
+}

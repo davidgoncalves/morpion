@@ -1,0 +1,2 @@
+serviceClass: com.morpion.client.GreetingService
+path: D4B13EF2794285D304108804DE5498B9.gwt.rpc
